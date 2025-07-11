@@ -1,0 +1,22 @@
+[
+    {
+        "name":"MGD gaame engine",
+        "versionID":"beta0.1",
+        "Type":"app.asar"
+    },
+    {
+        "name":"MSE(music sheet editor)",
+        "versionID":"r1.4.2",
+        "Type":"app.asar"
+    },
+    {
+        "name":"GDOS(an os simulator)",
+        "versionID":"pre0.1",
+        "Type":"app.asar"
+    },
+    {
+        "name":"Eagler craft",
+        "versionID":"pre0.1",
+        "Type":"browser"
+    }
+]
